@@ -35,9 +35,16 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 
 ## Live URL
-
+https://one9pwa-texteditor.onrender.com
 
 ## ScreenShot
+![text editor] 
+(<c:\Users\cryst\OneDrive\Pictures\Screenshots\Screenshot 2024-07-16 220326.png>)
+
+(<c:\Users\cryst\OneDrive\Pictures\Screenshots\Screenshot 2024-07-16 220304.png>)
+
+(<c:\Users\cryst\OneDrive\Pictures\Screenshots\Screenshot 2024-07-16 220244.png>)
+
 
 ## GitHub
 https://github.com/CrystalC19/19PWA-TextEditor.git
