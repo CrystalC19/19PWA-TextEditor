@@ -38,12 +38,11 @@ THEN I should have proper build scripts for a webpack application
 https://one9pwa-texteditor.onrender.com
 
 ## ScreenShot
-![text editor] 
-(<c:\Users\cryst\OneDrive\Pictures\Screenshots\Screenshot 2024-07-16 220326.png>)
+![app manifest](<Screenshot 2024-07-16 220326.png>)
 
-(<c:\Users\cryst\OneDrive\Pictures\Screenshots\Screenshot 2024-07-16 220304.png>)
+![serviceworker](<Screenshot 2024-07-16 220304.png>)
 
-(<c:\Users\cryst\OneDrive\Pictures\Screenshots\Screenshot 2024-07-16 220244.png>)
+![indexed db](<Screenshot 2024-07-16 220244.png>)
 
 
 ## GitHub
